@@ -1,0 +1,6 @@
+{
+    "editor.snippetSuggestions": "top",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "emmet.includeLanguages": {"javascript": "javascriptreact"},
+}
